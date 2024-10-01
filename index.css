@@ -55,7 +55,7 @@ nav ul{
     border: 1px solid black;
     display: flex;
     justify-content: space-evenly;
-    background-image: url(../image/banner.png.webp);
+    background-image: url(./image/banner.png.webp);
  }
 
  /* first-sec-text */
